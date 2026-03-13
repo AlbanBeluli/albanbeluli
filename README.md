@@ -5,7 +5,7 @@
     + ------------------------------------------------------- +
     
       Hello, I am Alban.
-      I am interested in Networking & Cybersecurity.
+      I like AI, Python, Cybersecurity.
       Get in touch through x.com/albanbeluli
 
     + ------------------------------------------------------- +
