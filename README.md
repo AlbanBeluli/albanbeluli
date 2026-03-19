@@ -5,7 +5,7 @@
     + ------------------------------------------------------- +
     
       Hello, I am Alban.
-      I like AI, Python, Cybersecurity.
+      I like Python, Cybersecurity.
       Get in touch through x.com/albanbeluli
 
     + ------------------------------------------------------- +
