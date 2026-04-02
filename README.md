@@ -1,15 +1,18 @@
+# Alban Beluli
 
-              Alban Beluli
-              www.alban.ee
+**Offensive Security Engineer**
 
-    + ------------------------------------------------------- +
-    
-      Hello, I am Alban.
-      TryHackMe SEC1 | 
-      I like Python, Cybersecurity.
-      Get in touch through x.com/albanbeluli
+I break web applications, APIs, and business logic so they can be fixed before attackers get there.
 
-      
-      https://www.credly.com/users/albanbeluli
-    + ------------------------------------------------------- +
+- Website: [alban.ee](https://www.alban.ee)
+- X: [x.com/albanbeluli](https://x.com/albanbeluli)
+- Credly: [credly.com/users/albanbeluli](https://www.credly.com/users/albanbeluli)
 
+## Certifications
+
+- TryHackMe **SEC1**
+- TryHackMe **PT1** in progress
+
+## Contact
+
+If you want to talk about web security, labs, writeups, or pentesting work, reach out on [X](https://x.com/albanbeluli).
