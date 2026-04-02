@@ -4,7 +4,7 @@
 
 I break web applications, APIs, and business logic so they can be fixed before attackers get there.
 
-- Website: [alban.ee](https://stoicape.cc)
+- Website: [stoicape.cc](https://stoicape.cc)
 - X: [x.com/albanbeluli](https://x.com/albanbeluli)
 - Credly: [credly.com/users/albanbeluli](https://www.credly.com/users/albanbeluli)
 
