@@ -11,7 +11,7 @@ I break web applications, APIs, and business logic so they can be fixed before a
 ## Certifications
 
 - TryHackMe **SEC1**
-- TryHackMe **PT1** in progress
+- Hack The Box **COAE** in progress
 
 ## Contact
 
